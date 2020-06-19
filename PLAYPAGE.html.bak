@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lobster">
+    <title>WRENCH FOURTEEN</title>
+    <link rel="stylesheet" type="text/css" href="coolzone.css">
+    <style>
+
+		* {
+			top: 0;
+			left: 0;
+			padding: 0;
+			margin: 0;
+		}
+
+		body {
+
+			background-color: #FFF533;
+			color: black;
+			width: 100%;
+			height: 
+
+		}
+
+		.outer {
+			padding: 8px;
+			}
+
+
+
+/* portrait mode warning */
+#warning-message { display: none; 
+background-color: black;
+color:white;
+font-size:30px;
+}
+
+@media only screen and (orientation:portrait){
+#wrapper { display:none; }
+#warning-message { display:block; }
+
+ }
+
+@media only screen and (orientation:landscape){
+        #warning-message { display:none; }
+
+    }
+    
+    
+
+
+/* youtube */
+
+.youtube-responsive-container {
+position:relative;
+padding-bottom:56.25%;
+padding-top:30px;
+height:0;
+overflow:hidden;
+}
+
+.youtube-responsive-container iframe, 
+.youtube-responsive-container object, 
+.youtube-responsive-container embed {
+position:absolute;
+width:100%;
+height:100%;
+}
+
+.video {
+width: 60%;
+left: 20%;
+}
+
+</style> </head>
+  <body>
+    <div class="outer"><br>
+      <div align="center">
+        <div class="video"><a name="video">&nbsp;</a>
+          <div class="youtube-responsive-container"> <iframe src="https://www.youtube.com/embed/9i9fuRcAiW4"
+              allow="accelerometer; autoplay; encrypted-media;
+              gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe></div>
+        </div>
+        <br>
+        <br>
+        <br>
+      </div>
+      <div align="center">
+        <h3><font size="+3" face="Noto Serif Display"> THE PLAYS: </font></h3>
+        <hr width="100%" size="2">
+        <hr width="100%" size="2">
+        <hr width="100%" size="2">
+        <hr width="100%" size="2"><br>
+        <div align="center">
+          <ul>
+            <li style="text-align: center;">Trumped in Quarantine</li>
+            <li style="text-align: center;">WE CAN STILL BREAK SHIT</li>
+            <li style="text-align: center;">Finding the Laughter</li>
+            <li style="text-align: center;">New Moon in Gemini</li>
+            <li style="text-align: center;">Echo</li>
+            <li style="text-align: center;">The Infinite Menagerie Audio Tour</li>
+            <li style="text-align: center;">Nametagging</li>
+            <li style="text-align: center;">i am trying to communicate to you
+              through choreography from the music video for M.I.A.’s “Galang”</li>
+            <li style="text-align: center;">DARYL</li>
+            <li style="text-align: center;">Black Show</li>
+            <li style="text-align: center;">a tiny rebellion</li>
+            <li style="text-align: center;">at go! we will scream real loud with
+              the lights real bright and our eyes shut tight and our hearts real
+              full cause we gotta get it out even just for a moment just one
+              tender moment, all of us, together</li>
+            <li style="text-align: center;">To the Black Teenager</li>
+            <li style="text-align: center;">eating lasagna with garfield</li>
+            <li style="text-align: center;">Black Dykes Talk About Buffy</li>
+            <li style="text-align: center;">Our Relative Experience of
+              Protesting</li>
+            <li style="text-align: center;">Deja Play</li>
+            <li style="text-align: center;">From the Mouths of Babes: June 2020</li>
+            <li style="text-align: center;">this play is an hour long. (my two
+              month diary)</li>
+            <li style="text-align: center;">next year, maybe</li>
+            <li style="text-align: center;">howdoistayinhisbrain</li>
+            <li style="text-align: center;">[NEW PLAY]</li>
+            <li style="text-align: center;">[NEW PLAY]</li>
+            <li style="text-align: center;">[NEW PLAY]</li>
+            <li style="text-align: center;">GOOD NIGHT (outro)</li>
+          </ul>
+          <p><br>
+          </p>
+          <p><br>
+          </p>
+          <p><br>
+          </p>
+          <ul>
+          </ul>
+        </div>
+        <div style="text-align: left;"><br>
+        </div>
+        <br>
+      </div>
+    </div>
+  </body>
+</html>
