@@ -29,6 +29,10 @@ font-size:30px;
 }
 
 
+body {
+    cursor: url('images/cursor.cur'), default;
+}
+
 a:link {
     text-decoration: none;
 } 
